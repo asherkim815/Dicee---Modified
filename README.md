@@ -1,4 +1,6 @@
-https://asherkim815.github.io/dicee-modified/
+Modified: https://asherkim815.github.io/dicee-modified/
+
+Original: https://asherkim815.github.io/dicee-original/
 
 This project came from a Udemy course by Angela Yu, The Complete 2024 Web Development Bootcamp.
 
